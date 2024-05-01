@@ -32,6 +32,8 @@ void setup(){
   aeroPoint[4].tag = "43:9F:95:AC";
   aeroPoint[5].name = "Paulo";
   aeroPoint[5].tag = "F3:89:AE:1B";
+
+  // teste
 }
 
 void loop() {
